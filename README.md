@@ -1,1 +1,6 @@
-# representing_emotion_CIM542
+# Representing Triumph with LED lights
+
+CIM 542
+
+
+
