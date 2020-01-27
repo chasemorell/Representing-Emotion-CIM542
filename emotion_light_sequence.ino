@@ -1,4 +1,4 @@
-
+//Chase Morell, CIM 542, Janurary 2020
 
 //speed of the animation loop
 const int DELAY = 150;
