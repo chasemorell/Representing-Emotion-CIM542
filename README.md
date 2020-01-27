@@ -5,6 +5,8 @@ Loop consists of 7 LED lights arranged in a line. order of lights is (1x)white-(
 Watch Video of Animation:
 https://drive.google.com/file/d/13QCbpc-fgZwXh27ZTvbtxXCVpLa8itNw/view?usp=sharing
 
+Chase Morell
+
 CIM 542
 
 
