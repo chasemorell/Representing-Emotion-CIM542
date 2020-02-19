@@ -24,7 +24,7 @@ I created a 6 step sequence for the lights. The flashing of the lights creates a
 * 3 - 220ohm resistors
 * 3 - Green LEDs
 * 1 - Arduino UNO
-* 1 - Button
+* 1 - Switch
 
 I created a wired button that allows for the 3 different light modes to be cycled through. The wired are all hidden with the excpetion of the wire for the button. 
 
