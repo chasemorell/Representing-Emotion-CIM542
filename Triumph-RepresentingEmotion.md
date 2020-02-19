@@ -1,6 +1,6 @@
 # Triumph - Representing emotion
 
-The goal of this project is to represent the Triumph emotion. 
+The goal of this project is to represent the Triumph emotion. The light pattern creates a sense of movement from the smallest cube to the largest cube. The initial cube is a twisted parallelepiped, which represents initial difficulty acheiving a goal. The final, largest cube is straight and square, which represents accomplishing a goal. The light color green was chosen because green represents growth, harmony, and energy. 
 
 ## Final Video
 
@@ -8,28 +8,30 @@ The goal of this project is to represent the Triumph emotion.
 
 ## Sculpture
 
-The paper sculpture was built using this [Template Maker](https://www.templatemaker.nl/en/) site and illustrator. I used the Cricuit Maker to cut the shapes out.
+The paper sculpture was built using this [Template Maker](https://www.templatemaker.nl/en/) site and illustrator. I used the Cricuit Maker to cut the green base and the 3 cubes. The green base covers the ardiuno and breadboard.
 
 ![Paper Cylinder](/images/papersolo.jpg)
 ![Paper Cylinder Top](/images/papertopsolo.jpg)
 
 ## [Code](/arduino/lightPattern/lightPattern.ino)
 
-I decided to use a fading pattern to emit a calming sensations.
+I created a 6 step sequence for the lights. The flashing of the lights creates a sense of movement toward the largest cube. 
 
 ## Circuit
 
 * 3 - 220ohm resistors
-* 3 - Blue LEDs
-* 1 - Arduino Micro
+* 3 - Green LEDs
+* 1 - Arduino UNO
+* 1 - Button
+
+I created a wired button that allows for the 3 different light modes to be cycled through. 
 
 ![General Circuit](/images/generalcircuit.jpg)
 ![Lights On](/images/lightson.jpg)
 ![Circuit Close up](/images/circutcloseup.jpg)
 
 ## Issues
-* The bristol paper I used was too stiff which made it an issue making into a cylinder.
-* I should have used a glue stick instead of hot glue to make the seems closer.
+* I initally planned to use yellow lights, but found the not bright enough to illuminate the largest cube. 
 
 
 # For more information about Markdown
