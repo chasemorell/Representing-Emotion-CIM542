@@ -15,7 +15,7 @@ I used foam board was a foundation for the whole project.
 ![Image of Sculpture](/3MkMy1BHSeSf3soEc87X3Q.jpg)
 ![Another Image of Sculpture](/scuplture.jpg)
 
-## [Code](/arduino/lightPattern/lightPattern.ino)
+## [Code](/emotion_pattern_with_switches.ino)
 
 I created a 6 step sequence for the lights. The flashing of the lights creates a sense of movement toward the largest cube. 
 
