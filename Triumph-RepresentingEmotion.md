@@ -26,7 +26,7 @@ I created a 6 step sequence for the lights. The flashing of the lights creates a
 * 1 - Arduino UNO
 * 1 - Button
 
-I created a wired button that allows for the 3 different light modes to be cycled through. 
+I created a wired button that allows for the 3 different light modes to be cycled through. The wired are all hidden with the excpetion of the wire for the button. 
 
 ![General Circuit](/TYMttIzPR72JXmBu889H%A.jpg)
 
