@@ -10,6 +10,8 @@ The goal of this project is to represent the Triumph emotion. The light pattern 
 
 The paper sculpture was built using this [Template Maker](https://www.templatemaker.nl/en/) site and illustrator. I used the Cricuit Maker to cut the green base and the 3 cubes. The green base covers the ardiuno and breadboard.
 
+I used foam board was a foundation for the whole project. 
+
 ![Image of Sculpture](/3MkMy1BHSeSf3soEc87X3Q.jpg)
 ![Another Image of Sculpture](/scuplture.jpg)
 
@@ -26,14 +28,11 @@ I created a 6 step sequence for the lights. The flashing of the lights creates a
 
 I created a wired button that allows for the 3 different light modes to be cycled through. 
 
-![General Circuit](/images/generalcircuit.jpg)
-![Lights On](/images/lightson.jpg)
-![Circuit Close up](/images/circutcloseup.jpg)
+![General Circuit](/TYMttIzPR72JXmBu889H%A.jpg)
+
 
 ## Issues
 * I initally planned to use yellow lights, but found the not bright enough to illuminate the largest cube. 
+* Soldering the wires to the small button was challenging due to the small size. 
 
 
-# For more information about Markdown
-
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
