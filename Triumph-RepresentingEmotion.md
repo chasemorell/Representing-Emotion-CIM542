@@ -4,7 +4,7 @@ The goal of this project is to represent the Triumph emotion.
 
 ## Final Video
 
-![Final Video](/images/animation.gif)
+[Final Video](https://drive.google.com/file/d/1ebpIyWgywe3m9hdtDNlW5HCG2OAhXVl9/view?usp=sharing)
 
 ## Sculpture
 
