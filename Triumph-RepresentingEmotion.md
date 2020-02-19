@@ -10,7 +10,7 @@ The goal of this project is to represent the Triumph emotion. The light pattern 
 
 The paper sculpture was built using this [Template Maker](https://www.templatemaker.nl/en/) site and illustrator. I used the Cricuit Maker to cut the green base and the 3 cubes. The green base covers the ardiuno and breadboard.
 
-I used foam board was a foundation for the whole project. 
+I used foam board as a foundation for the whole sculpture. 
 
 ![Image of Sculpture](/3MkMy1BHSeSf3soEc87X3Q.jpg)
 ![Another Image of Sculpture](/scuplture.jpg)
