@@ -11,7 +11,7 @@ The goal of this project is to represent the Triumph emotion. The light pattern 
 The paper sculpture was built using this [Template Maker](https://www.templatemaker.nl/en/) site and illustrator. I used the Cricuit Maker to cut the green base and the 3 cubes. The green base covers the ardiuno and breadboard.
 
 ![Image of Sculpture](/3MkMy1BHSeSf3soEc87X3Q.jpg)
-![Another Image of Sculpture](/d03SsrRRTyWAdfLI3sJ1sw.jpg)
+![Another Image of Sculpture](/scuplture.jpg)
 
 ## [Code](/arduino/lightPattern/lightPattern.ino)
 
